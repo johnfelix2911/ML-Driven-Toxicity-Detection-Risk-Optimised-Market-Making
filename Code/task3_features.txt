@@ -1,0 +1,18 @@
+Task 3 - Feature vector ordering (index : name)
+==============================================
+ 0 : client_A
+ 1 : client_B
+ 2 : client_C
+ 3 : client_D
+ 4 : client_E
+ 5 : client_F
+ 6 : side
+ 7 : volume
+ 8 : log_volume
+ 9 : spread
+10 : rel_spread
+11 : tp_minus_mid
+12 : signed_offset
+13 : tod_frac
+14 : realized_vol
+15 : momentum
